@@ -2,7 +2,7 @@
   "name": "laposta-skill",
   "owner": {
     "name": "Mees van Lier",
-    "url": "https://github.com/meesmvanlier"
+    "url": "https://github.com/laposta"
   },
   "metadata": {
     "description": "The Laposta skill, so an AI assistant can work with the Laposta API.",
@@ -15,7 +15,7 @@
       "description": "Work with Laposta, the Dutch email marketing platform, through its REST API: lists, subscribers, custom fields, segments, campaigns, results and webhooks.",
       "version": "1.0.0",
       "author": { "name": "Mees van Lier" },
-      "homepage": "https://github.com/meesmvanlier/laposta-skill",
+      "homepage": "https://github.com/laposta/laposta-skill",
       "license": "MIT",
       "keywords": ["laposta", "email-marketing", "api", "skill"]
     }
