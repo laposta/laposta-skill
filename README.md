@@ -36,7 +36,7 @@ export LAPOSTA_API_KEY="your-key"
 This repository is also a plugin marketplace, so two commands are enough:
 
 ```
-/plugin marketplace add meesmvanlier/laposta-skill
+/plugin marketplace add laposta/laposta-skill
 /plugin install laposta@laposta-skill
 ```
 
@@ -50,7 +50,7 @@ below.
 Prefer to copy the files yourself:
 
 ```bash
-git clone https://github.com/meesmvanlier/laposta-skill.git
+git clone https://github.com/laposta/laposta-skill.git
 mkdir -p ~/.claude/skills
 cp -r laposta-skill/plugins/laposta/skills/laposta ~/.claude/skills/
 ```
